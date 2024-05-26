@@ -73,6 +73,14 @@ Esta classe fornece o texto do menu de opções baseado no nome do usuário.
 
 
 ---
+## 🪙 Badge de Conversor de Moedas
+
+<div align="center">
+  <img src="https://github.com/franciscgg/ConversorMoedas/assets/113110382/bcd63aac-d812-4359-9a5e-6239fe063fa8" alt="Badge-Conversor" width="150">
+</div>
+
+
+
 
 ## 🚀 Tecnologias
 
