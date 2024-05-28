@@ -68,6 +68,7 @@ Esta classe fornece o texto do menu de opções baseado no nome do usuário.
 ![image](https://github.com/franciscgg/ConversorMoedas/assets/113110382/44f271ad-116d-4024-8e76-80b8c08d4d1a)
 ![image](https://github.com/franciscgg/ConversorMoedas/assets/113110382/6573a3bf-d351-4573-bf5f-1b97fb706731)
 ![image](https://github.com/franciscgg/ConversorMoedas/assets/113110382/f6323b99-74f9-4676-b25e-eadcce56c20f)
+![image](https://github.com/franciscgg/ConversorMoedas/assets/113110382/b28c3bec-1598-46c2-9034-ab7c2ff4dc91)
 
 
 
